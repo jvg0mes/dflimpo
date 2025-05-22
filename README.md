@@ -2,6 +2,12 @@
 
 **DF Limpo** é uma pagina web voltada à conscientização sobre os impactos ambientais e sociais do descarte inadequado de entulho no Distrito Federal, principalmente em regiões como Brasília e Sobradinho-DF. Através de informações sobre os problemas causados, panorama sobre a situação atual, e locais para descarte correto de entulho, buscamos promover ações que resultem em um ambiente mais limpo e saudável.
 
+## 🌐 Acesso ao Website
+
+Você pode acessar o site **DF Limpo** através do link abaixo:
+
+- [**Acessar o Website DF Limpo**](https://jvg0mes.github.io/dflimpo/)
+
 ## 🚀 Funcionalidades
 
 - **Panorama** com informações atualizadas sobre o descarte de entulho e seus impactos no saneamento básico e na qualidade da água.
